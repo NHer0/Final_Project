@@ -2,3 +2,4 @@
 *.txt
 Data/financial/labelled/large/models/fin_lab_large_finetuned.pth
 Data/financial/labelled/large/models/fin_lab_large_large_inferer.pth
+*.pth
