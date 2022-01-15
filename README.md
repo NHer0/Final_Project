@@ -11,9 +11,9 @@
 3. Adapt the model for news headlines sentiment analysis using a small labeled dataset 
 
 
-**Data**: IMDb Reviews Binary Sentiment Dataset (https://ai.stanford.edu/~amaas/data/sentiment/):
+**Data**: Financial Headlines Dataset (https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news):
 
--   50,000 records
+-   1,945 records labelled as positive or negative
 -   2 features: review body text and sentiment label
 
 

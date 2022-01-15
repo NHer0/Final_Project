@@ -1,0 +1,1 @@
+xxbos xxmaj to ensure low operational cost for radio networks , the xxup bts modules can be configured , software upgraded and diagnosed remotely .
